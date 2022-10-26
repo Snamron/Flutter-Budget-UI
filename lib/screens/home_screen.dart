@@ -1,6 +1,6 @@
 import 'package:budget_app_ui/data/data.dart';
 import 'package:budget_app_ui/models/category_model.dart';
-import 'package:budget_app_ui/screens/catergory_screen.dart';
+import 'package:budget_app_ui/screens/category_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../helpers/color_helper.dart';
